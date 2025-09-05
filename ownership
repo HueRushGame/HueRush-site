@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ownership Statement – HueRush</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Ownership Statement – HueRush</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="terms.html">Terms of Use</a>
+    <a href="eula.html">EULA</a>
+    <a href="legal.html">Legal Notice</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <p><strong>HueRush</strong> is an original mobile game developed and published by <strong>Kamil Svoboda</strong>.</p>
+
+  <p>All rights to the game, including its name, design, codebase, artwork, music, and gameplay systems, are exclusively owned by Kamil Svoboda.</p>
+
+  <p>Any use of HueRush or its assets outside of the licensed scope defined in the <a href="eula.html">EULA</a> is prohibited without prior written consent.</p>
+
+  <p><strong>Copyright © 2025 Kamil Svoboda. All rights reserved.</strong></p>
+</body>
+</html>
